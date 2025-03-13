@@ -8,7 +8,7 @@ An MVP for a registry for Govt funded Training Centers.
 
 1. Clone the github repo : 
 ```sh
-git clone 
+git clone "https://github.com/DivyanshTiwari001/Backend_Traini8_Divyansh_Tiwari.git"
 
 ```
 2. Start the docker container for Postgres DB (testDB)
